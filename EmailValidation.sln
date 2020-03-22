@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EmailValidation", "E:\EmailValidation", "{1AA4DA28-36ED-4497-99FD-8DFE7B30A1B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/EmailValidation"
+		Debug.AspNetCompiler.PhysicalPath = "E:\EmailValidation\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\EmailValidation\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/EmailValidation"
+		Release.AspNetCompiler.PhysicalPath = "E:\EmailValidation\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\EmailValidation\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65279"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA4DA28-36ED-4497-99FD-8DFE7B30A1B4}.Debug|.NET.ActiveCfg = Debug|.NET
+		{1AA4DA28-36ED-4497-99FD-8DFE7B30A1B4}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
