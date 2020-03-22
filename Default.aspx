@@ -13,7 +13,7 @@
     <div>
     
         <asp:TextBox ID="TextBox1" runat="server" Height="35px" 
-            ontextchanged="TextBox1_TextChanged" Width="276px" BorderColor="#0033CC" 
+            Width="276px" BorderColor="#0033CC" 
             CausesValidation="True" Font-Size="Medium"></asp:TextBox>
     
     <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
