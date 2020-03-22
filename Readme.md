@@ -1,6 +1,6 @@
 Email Validation using ASP.NET
 
-A valid email address should should satisfy the following conditions
+A valid email address should should satisfy the following conditions:
 • The email address must have @ character
 • Only one @ character should be entered
 • The email address must have .(dot) character
